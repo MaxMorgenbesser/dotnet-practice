@@ -1,0 +1,15 @@
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/bin/Debug/net6.0/consoleasync
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/bin/Debug/net6.0/consoleasync.deps.json
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/bin/Debug/net6.0/consoleasync.runtimeconfig.json
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/bin/Debug/net6.0/consoleasync.dll
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/bin/Debug/net6.0/consoleasync.pdb
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.csproj.AssemblyReference.cache
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.AssemblyInfoInputs.cache
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.AssemblyInfo.cs
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.csproj.CoreCompileInputs.cache
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.dll
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/refint/consoleasync.dll
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.pdb
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/consoleasync.genruntimeconfig.cache
+/Users/maxmorgenbesser/dotnet-practice/consoleasync/obj/Debug/net6.0/ref/consoleasync.dll
